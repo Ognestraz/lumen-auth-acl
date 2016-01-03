@@ -16,7 +16,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Ognestraz\\Controllers": "src/Controllers"
+            "Ognestraz\\Controllers\\": "src/Controllers/"
         }
     },
     "config": {
